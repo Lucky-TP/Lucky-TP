@@ -33,15 +33,6 @@ I am a Dual-Degree Computer Engineering student (B.Eng & M.Eng) with a focus on 
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucky-TP&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky-TP&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
-
----
-
 ### 💼 Professional Experience
 
 | Role | Company / Project | Engineering Impact |
