@@ -1,16 +1,16 @@
 # Hi, I'm Tunchanok (Lucky) 👋
 
-### AI Engineer | Full-Stack Developer | Researcher
+### Software Developer | Full-Stack Engineer | Financial Data Science | AI Engineer
 
-I am a Dual-Degree Computer Engineering student (B.Eng & M.Eng) specializing in **Financial Data Science** and **Software Development**. My background in testing and verified deployment drives my development philosophy: code must be rigorous, stable, and researched before it creates value.
+I am a Dual-Degree Computer Engineering student (B.Eng & M.Eng) with a focus on **System Architecture** and **Financial Technology**. I build scalable web applications and data-driven tools, using my background in quality assurance to ensure every line of code is robust and production-ready.
 
 ---
 
-### 🧐 My Philosophy: "Trust, but Verify"
+### 💻 Engineering Philosophy
 
-* **Skepticism by Default:** My experience at **SCB Tech X** taught me that edge cases are the norm. I prefer robust error handling over "happy path" programming.
-* **Impact-Driven:** At **Sunday Insurance**, I didn't just write code; I optimized user flows that contributed to a 22% increase in traffic.
-* **Research-Oriented:** Whether analyzing financial spreads or architecting university platforms, I prioritize data accuracy over speed.
+* **Builder First:** I specialize in architecting full-stack solutions, from database design (PostgreSQL/MongoDB) to frontend performance (Next.js).
+* **Quality by Design:** My experience in **Automated Testing** means I write code that is testable, maintainable, and reliable by default.
+* **Data-Driven:** I combine software engineering with financial research to build tools that solve complex analytical problems.
 
 ---
 
@@ -19,17 +19,16 @@ I am a Dual-Degree Computer Engineering student (B.Eng & M.Eng) specializing in 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   
-  <img src="https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -37,27 +36,29 @@ I am a Dual-Degree Computer Engineering student (B.Eng & M.Eng) specializing in 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucky-TP&show_icons=true&theme=radical&count_private=true&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky-TP&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucky-TP&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucky-TP&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 ---
 
 ### 💼 Professional Experience
 
-| Company | Role | Impact & Methodology |
+| Role | Company / Project | Engineering Impact |
 | :--- | :--- | :--- |
-| **SCB Tech X** | **Software QA Engineer** | [cite_start]**Verification Focus:** Crafted **200+ Playwright API tests** and 150+ manual UI cases[cite: 14]. [cite_start]Validated complex business logic and SQL data integrity to prevent critical defects before production[cite: 15]. |
-| **Sunday Insurance** | **Software Engineer** | [cite_start]**Development Focus:** Built core user features (Login, Order List) using **Next.js & NestJS**[cite: 33]. [cite_start]Improved code quality via ESLint standards, contributing to a **22% increase in site traffic**[cite: 34, 35]. |
+| **Project Manager & Full-Stack Lead** | **Kasetsart University E-Meeting Website** | **System Architecture:** Leading a team to build a secure university meeting platform. Architected the backend using **NestJS & MinIO** and frontend with **Next.js**, handling Google OAuth and complex user permissions. |
+| **Software Engineer Intern** | **Sunday Insurance** | **Feature Development:** Built core user features (Sign-up, Order List) using **Next.js & ExpressJS**. Optimized code quality to support a **22% increase in site traffic**. |
+| **Software QA Engineer Intern** | **SCB Tech X** | **Test Automation:** Developed **200+ Playwright API tests** and validated SQL data integrity. I use this experience to write bug-free code in my development work. |
 
 ---
 
-### 🔭 Research & Technical Projects
+### 🔭 Technical Projects & Research
 
-| Project | Domain | Engineering Focus |
+| Project | Stack | Description |
 | :--- | :--- | :--- |
-| **Binance Arbitrage Bot** | **FinTech** | Developed a Python bot to monitor **Spot vs. COIN-M Delivery Futures** spreads. [cite_start]Focus on calculation accuracy and latency, yielding up to 10% annualized return[cite: 47, 48]. |
-| **KU E-Meeting Platform** | **System Arch** | Secure meeting platform for Kasetsart University. [cite_start]Architecting the backend with **NestJS & PostgreSQL** and implementing strict OAuth security compliance[cite: 26, 28]. |
+| **Binance Arbitrage Bot** | **Python** | A high-frequency monitor for **Spot vs. COIN-M Delivery Futures** spreads. Focus on calculation accuracy and real-time execution alerts. |
+| **Crowdfunding Platform** | **Next.js / Firebase** | A reward-based crowdfunding site with **Stripe** payment integration and NoSQL data modeling. |
+| **Discord Trading Sim** | **Python** | A bot simulating crypto trading strategies via Discord API, handling virtual portfolios and real-time data fetching. |
 
 ---
 
@@ -65,15 +66,14 @@ I am a Dual-Degree Computer Engineering student (B.Eng & M.Eng) specializing in 
 
 **Kasetsart University** (2022 - Present)
 * *B.Eng & M.Eng in Computer Engineering (Dual Degree)*
-* [cite_start]**Focus:** Financial Data Science & Machine Learning Research[cite: 65].
+* **Focus:** Financial Data Science, Machine Learning, and Software Engineering.
 
 ---
 
-### 🤝 Connect & Verify
+### 🤝 Connect
 
 * **LinkedIn:** [tunchanok-punmeros](https://www.linkedin.com/in/tunchanok-punmeros)
-* I value feedback. If you spot an issue in my code or logic, please open a PR.
 
 <div align="center">
-  <sub><em>"Quality is not an act, it is a habit."</em></sub>
+  <sub><em>"Building reliable systems through research and engineering."</em></sub>
 </div>
