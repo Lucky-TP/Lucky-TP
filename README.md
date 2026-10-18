@@ -6,6 +6,14 @@ I am a Dual-Degree Computer Engineering student (B.Eng & M.Eng) with a focus on 
 
 ---
 
+### LLM Token Usage
+
+![Daily LLM token usage across local coding tools](./llm-usage.svg)
+
+Snapshot: October 18, 2026. Based on available local logs since September 2, 2026; totals include input, output, and cache tokens. Generated locally without submitting usage to Tokscale. This image updates manually.
+
+---
+
 ### 💻 Engineering Philosophy
 
 * **Builder First:** I specialize in architecting full-stack solutions, from database design (PostgreSQL/MongoDB) to frontend performance (Next.js).
